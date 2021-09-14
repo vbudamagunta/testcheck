@@ -1,0 +1,3 @@
+LNAME,MIDDLE,FNAME,ADD1,ADD2,CITY,STATE,ZIP,COUNTRY,EMAIL,PHONE
+testerlname,,testerfname,abcde,abcde,Mumbai,MH,500049,INDIA,test@mailinator.com,9000411122
+testerlname2,,testerfname1,abcde1,abcde1,Hyderabad,TS,500041,INDIA,test1@mailinator.com,9000411123
